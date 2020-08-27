@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Daughter">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:textIsSelectable="true"
+        android:text="1. It is unbelievable how, just like yesterday, you were a little, bubbly child. Today, you’re celebrating
+your birthday as a respectable teenager. I’m proud of who you’ve become, sweet daughter. Happy
+birthday."></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="80dp"
+        android:textIsSelectable="true"
+        android:text="2. Happy birthday, cutie. It isn’t often that a dad will have a daughter who he relates with as a man to his
+fellow man. You’re an express gift from God, my dear daughter, and I wish you heaven’s best in this your
+new year"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="160dp"
+        android:textIsSelectable="true"
+        android:text="3. Today, I just wish you many years of pure bliss unfanthomable joy, indescribable peace and priceless
+achievements. Happy Birthday , my love."></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="220dp"
+        android:textIsSelectable="true"
+        android:text="4. We wish you a birthday that is as beautiful, incredible, and unique as you are. Happy birthday
+daughter!"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="265dp"
+        android:textIsSelectable="true"
+        android:text="5. You are such a positive, charming, and absolutely adorable daughter. I am so proud that I get to call
+you my daughter because no other person could ever hope to compare to you. Happy birthday to my
+perfect little girl!"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="340dp"
+        android:textIsSelectable="true"
+        android:text="6.You renew my faith in the world because any world that has as incredible a person as you in it is one
+that can only be good. You are such an inspiration to me, and I hope you feel surrounded by love and
+warmth on your birthday."></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="420dp"
+        android:textIsSelectable="true"
+        android:text="7. I never knew I could love something so tiny so much, but the day you came into my life I was
+overwhelmed by all the love I had for you. Thank you for showing me how wonderful being a parent is.
+Happy birthday to my darling daughter!"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="500dp"
+        android:textIsSelectable="true"
+        android:text="8.From the day you first came home from the hospital, you ruled our house like a tiny little tyrant. Now,
+on your birthday, we get to treat you like the queen you are. Happy birthday from your loyal subjects
+a.k.a. your parents!"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="580dp"
+        android:textIsSelectable="true"
+        android:text="9. When you were little, you were never afraid to give me tons of kisses, but now you seem so
+embarrassed! As a parent, it is my duty to embarrass you as much as possible, so this year I plan to
+smother you with hugs and kisses in front of all your friends. You are so welcome."></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="680dp"
+        android:textIsSelectable="true"
+        android:text="10. Daughter, you’ve achieved so much in life, and I’m nothing but proud of the woman you’ve become.
+May your year be filled with continued success and never-ending love. I’ve got that love part covered!"></TextView>
+
+
+</RelativeLayout>
+

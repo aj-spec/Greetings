@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Christmas"
+    android:background="@drawable/christmas">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:textColor="@color/cardview_light_background"
+        android:text="1. May this Christmas be bright and merry for you. May Santa bring love and joy for you that last not only
+for this Christmas but also for the entire year!
+\n\n2. Let this Christmas make way for a fresh new start for you. Embrace the many miracles it brings along
+and spread the love you have in your heart! Merry Christmas!
+\n\n3. May your heart be filled with supreme joy and your home with sweet presents. Let’s spread the
+laughter and cheers of this magical occasion. Merry Christmas and Happy New Year.
+\n\n4. May you forget all your pain and your enemies turn into friends. I wish a Merry Christmas that brings a
+season full of joy to enjoy and cherish forever!
+\n\n5. Let us be thankful to our Christ on this Christmas Eve for all his bestowed blessings that have sparked
+on our family!
+\n\n6. On this Christmas day, may you be surrounded with the love of our Savior! Great wishes for you and
+your family a very blessed Christmas.
+\n\n7. Christmas brings hope, joy and love as Jesus was born on this eve! May you and your family also be
+filled with these blessings.
+\n\n8. To a cheerful present and a wonderfully remembered past. Best wishes for an ecstatic holiday and
+Merry Christmas.
+\n\n9. I wish your family a Merry Christmas. Let this Christmas be one of the beautiful and you have
+cherished moments of celebration and joy. I send lots of love and good wishes to your family.
+\n\n10. I’m sure you must be having a wonderful time this Christmas season. Make sure you keep that
+happiness in your mind for the rest of the year as well. Merry Christmas."
+        android:textIsSelectable="true"></TextView>
+
+
+</RelativeLayout>

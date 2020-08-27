@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Birthday"
+    android:background="@drawable/cover">
+    <Button
+        android:id="@+id/a1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="30sp"
+        android:background="#80000000"
+        android:text="\nSON\n"/>
+
+
+    <Button
+        android:id="@+id/a2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="-5dp"
+        android:layout_marginTop="135dp"
+        android:background="#80000000"
+        android:text="\nDAUGHTER\n"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/a3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="256dp"
+        android:background="#80000000"
+        android:text="\nFATHER\n"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/a4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="373dp"
+        android:background="#80000000"
+        android:text="\nMOTHER\n"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/a5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="486dp"
+        android:background="#80000000"
+        android:text="\nGENERAL\n"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="30sp" />
+
+
+</RelativeLayout>

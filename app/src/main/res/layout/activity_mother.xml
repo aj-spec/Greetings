@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Mother"
+    android:background="@drawable/mother">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:textColor="@color/cardview_light_background"
+        android:text="1. Mom, throughout life, you have been my haven. Thanks to your valuable advice and stout character, I
+have had the best experiences in life. 'Happy birthday!'\n\n2. With a loving heart and a warm embrace, I send my birthday wishes to the best mother in the world.
+Have the best one yet.\n\n
+3.Today will always be a constant reminder that not all heroes wear capes. Through the good and bad,
+you have held us down. Have a blast today. Happy birthday, dear mom.\n\n
+4.There is no one in the whole wide world, that could take your place in my heart. I count myself lucky to
+have you. Happy birthday, dearest mother.\n\n
+5.You’re the precious gift heaven has given to me and I just want to celebrate you over and over again.
+Happy birthday, mom.\n\n
+6. Mom, you’re exceptional and phenomenal in every aspect, I just want you to have a day as
+phenomenal as you are. Happy birthday my first love."
+        android:textIsSelectable="true"></TextView>
+</RelativeLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Son"
+    android:background="@drawable/son">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:textIsSelectable="true"
+        android:textColor="@color/cardview_light_background"
+        android:text="1. Its your special day, wishing a very happy birthday to my favourite boy.\n\n
+2. Your kind is rare. Truly, you are a special person to me, sent from above. I have only blessings to
+shower on you on this wonderful day in your life. Happy birthday, son.\n\n
+3. Son, words don’t do justice to the extravagant joy in my heart as you mark another year in your life. I
+wish above all things, that you remain as outstanding as the happiness you bring into my life. Happy
+birthday.\n\n
+4. You came into my life, and beamed a light of hope in me. For you, I will conquer mountains and fill
+valleys with possibilities. Happy birthday, son. Keep growing in grace.\n\n
+5. I am really proud of the man you are becoming. It was just as if it were yesterday that you were a
+toddler, eating mashed foods. Happy birthday. May all your good desires come true.\n\n
+6. No day passes by without seeing me appreciate the Most High God for the opportunity to father you.
+You’ve been an incredible blessing to me, and I wish you heaven’s best today. Happy birthday, son
+\n\n7.Who will ever believe that my child of yesterday has grown into a man of today? I am stunned as well
+as excited to see you waxing in health and vigor. Happy birthday, son.\n\n
+8. I am well convinced that your life is destined for greatness. As you turn a year older on this day, may
+you be able to live in the fullness of your calling. Happy birthday, dear son.
+\n\n9. The winds will blow, and the storms will rage. You will experience ups and downs, and may question
+the authenticity of life. But, be rest assured that you were born to conquer your world. Happy birthday,
+dear son.\n\n
+10. In place of sorrow, may joy be the melody your heart sings. In place of weakness, may you blossom
+in strength, and in place of lack, may you be a commander of affluence. Happy birthday, son."></TextView>
+
+
+</RelativeLayout>

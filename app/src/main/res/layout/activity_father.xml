@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Father"
+    android:background="@drawable/father">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="1dp"
+    android:textIsSelectable="true"
+    android:textColor="@color/cardview_light_background"
+    android:text="1.Dad, Happy Birthday! No matter what, I’ll always be your number one fan!Wishing you another year that rocks!
+\n\n2. Happy Birthday. Thank you for always being there to lend a helping hand. I hope today brings you lots
+of love, happiness, and smiles, Dad!
+\n\n3. I feel truly lucky to have such a loving, caring and encouraging father. Wishing you an entirely
+peaceful day, full of pleasant and joyful moments!
+\n\n4. Thanks for making all the sacrifices silently and working hard all day and night just to get us a better life,
+you are one of the most important persons in my life! I love you, happy birthday dad!
+\n\n5. I knew that you were my secret Santa every time but I kept on pretending that I didn’t know who it was
+to keep all my wishes coming true! Happy birthday dear father!
+\n\n6. Happiest birthday to the most handsome and kindhearted man that I have ever known! I always
+wanted to grow up to be somebody like you. You made me believe that this world is beautiful!
+\n\n7. Happy birthday to the adorable dad who will loosen his pockets and tighten his hugs for me just with a
+small tug."></TextView>
+
+
+</RelativeLayout>

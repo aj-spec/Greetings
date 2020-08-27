@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Diwali"
+    android:background="@drawable/diwali">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:textIsSelectable="true"
+        android:textColor="@color/cardview_light_background"
+        android:text="1. May the festival of lights be the harbinger of joy and prosperity. As the holy occasion of Diwali is here
+and the atmosphere is filled with the spirit of mirth and love, here's hoping this festival of beauty brings
+your way, bright sparkles of contentment, that stay with you through the days ahead.
+Best wishes on Diwali .
+\n\n2. May the stentorian crackers turn up the volume of fun and happiness in your life in all the ways one
+can imagine. Be safe , Happy Diwali.
+\n\n3. Memories of moments celebrated together.......
+Moments that have been attached in my heart, forever.......
+Make me Miss You even more this Diwali.
+Hope this Diwali brings in Good Fortune and Abounding Happiness for you!
+HAPPY DIWALI
+\n\n4.This Diwali, may you be blessed with good fortune as long as Ganeshji's trunk, wealth and prosperity
+as big as his stomach,
+
+happiness as sweet as his ladoos and may your trouble be as small as his mouse.
+Happy Diwali
+\n\n5.A warm Diwali wish for every happiness. May the warmth and splendor, that are a part of this
+auspicious occasion, fill your life with happiness and bright cheer, and bring to you joy and prosperity, for
+the whole year.
+\n\n6. As your celebrate this holy occasion, the most loving thoughts and wishes are for you... May the
+beauty of Diwali fill your world and your heart and may the love that is always yours, bring you endless
+joy. Have A Wonderful Diwali"></TextView>
+
+</RelativeLayout>

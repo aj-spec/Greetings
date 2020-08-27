@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Anniversary"
+    android:background="@drawable/couple">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="1dp"
+    android:textIsSelectable="true"
+    android:textColor="@color/cardview_light_background"
+    android:text="1. Happy anniversary.
+May the love you have for one another continue to grow and blossom with each passing year.
+\n\n2. You both never miss an opportunity to complement and supplement each other.
+Happy Anniversary!
+
+\n\n3.t is not about how many years you two have been together;
+it is about how much fun you both are with each other.
+Happy Anniversary!
+\n\n4.Sending all my love and best wishes as you celebrate another year of love and togetherness.
+May you love continue to hold strong and grow with the passing time.
+Happy Anniversary!
+\n\n5. Anniversaries are the days to treasure your companion and let them know that you are going to create
+the best moments in the upcoming year.
+\n\n6. Not just a journey of love,
+Marriage is a journey full of adventure and happiness.
+Enjoy your blissful loop of sweet memories.
+Happy Anniversary!
+\n\n7.Sending you both all my blessings and warm wishes.
+May your love continue to grow forever and you become more fond of each other.
+Happy Anniversary!
+\n\n8. Wishing the perfect pair a perfect day full of love, laughter and togetherness.
+Happy Anniversary!!
+\n\n9. Your marriage is not a love story,
+But an epic tale of romance.
+Your marriage is not a happy ending,
+But a blissful loop of sweet memories.
+Happy Wedding Anniversary!
+\n\n10. Sending Blessings your way today...to let you know you are deeply loved and remembered.
+May you have a Happy Anniversary;
+I pray."></TextView>
+
+</RelativeLayout>

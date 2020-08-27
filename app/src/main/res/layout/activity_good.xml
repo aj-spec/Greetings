@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Good"
+    android:background="@drawable/good">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:textIsSelectable="true"
+        android:textColor="@color/cardview_light_background"
+        android:text="1). I pray that all the happiness be showered on your family and your flourish with joy and prosperity.
+Happy Good Friday.
+
+\n\n2). Sending you the warmest wishes to your family on the occasion of Good Friday. Happy
+Good Friday
+
+\n\n3). Let us thank God for giving us such a wonderful family and understand the value of love. Happy Good
+Friday
+
+\n\n4). I pray that may your life is bestowed with the grace, mercy and love of Lord. May you thank Him and
+find the path of glory and success. Wishing you blessed and Happy Good Friday.
+
+\n\n5). Let us thank for God for all his love for the world for which he gave away his only son. Let us pray him
+for a meaningful life with a purpose. Warm best wishes on Holy Friday.
+
+\n\n6). He is the one who bore all our sins in his body so that we can live for righteousness. He took wounds
+on his body so that we could get healed. Happy Good Friday wishes to you.
+
+\n\n7). On Holy Friday, may his love grace our hearts, may his light guide our path, may his sacrifice impart
+strength to our souls. Wishing you Happy Good Friday. May God bless us all.
+
+\n\n8). May the blessings of Jesus shine on our lives on this Holy day. May He showers his love on all of us
+and guide us towards the path of righteousness. Warm Blessed Happy Good Friday wishes.
+
+\n\n9). I am praying to the Lord that holds you in his love and blesses your life with his grace every day.
+Warm wishes on Holy Friday to you. May God bless us with his love."></TextView>
+
+
+
+</RelativeLayout>

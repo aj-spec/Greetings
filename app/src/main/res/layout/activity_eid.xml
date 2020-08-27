@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Eid"
+    android:background="@drawable/eid">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:textColor="@color/cardview_light_background"
+        android:text="1. On this Eid, I really wish that we celebrate this special day together with lots of fun and merriment....
+Eid Mubarak to you and your family.
+\n\n2. May Allah light up the darkest corners of our lives with his love and blessings.... May He is always
+there to mentor our paths..... May He fill our hearts with love for each other.... Warm wishes on Eid Ul
+Fitr to my loving family!!!
+\n\n3. Eid is the time to spend beautiful times with the people you love. On Ramadan, I pray Allah to give
+happiness, peace and glory to my family who is my strength. Eid Ul Fitr wishes to you all.
+\n\n4. I wish that we all are showered with the divine blessings of Allah.... I wish that our house is full joy,
+prosperity and success.... I wish my lovely family Eid Mubarak on the auspicious occasion of Eid Ul Fitr.
+\n\n5. Eid is the time to offer prayers to Allah and seek his blessings and guidance for your loved ones to
+have a life that is always protected and blessed by the Almighty.... Wishing a very Happy Eid to all the
+family members."
+        android:textIsSelectable="true"></TextView>
+</RelativeLayout>

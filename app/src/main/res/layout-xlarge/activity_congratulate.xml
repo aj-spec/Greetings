@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Congratulate">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:textIsSelectable="true"
+        android:text="1. You deserve the grandest celebration of all. I wish all the very best for your future life. many
+Congratulations to you my dear"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="45dp"
+        android:textIsSelectable="true"
+        android:text="2. My greatest pleasure is to see you victorious over all the hurdles in life. You deserve the biggest
+congratulation for all your hard works!"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="105dp"
+        android:textIsSelectable="true"
+        android:text="3. Not many people have a story of their own to tell. You have a story of your own and there are so many
+others to tell it over and over again. Congratulations!"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="165dp"
+        android:textIsSelectable="true"
+        android:text="4. No one needs a second look at you to realize what a great achiever you are. You can accomplish
+anything that you desire for. Congratulations!"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="225dp"
+        android:textIsSelectable="true"
+        android:text="5. It’s a great pleasure for me whenever I see you achieving the things that I never believed you could.
+You are amazing! Congratulations!"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="285dp"
+        android:textIsSelectable="true"
+        android:text="6.You’ve don’t it again just like I told you would. I’m happier than anyone else right now. Congratulations
+my dear! You have so many things to achieve!"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="345dp"
+        android:textIsSelectable="true"
+        android:text="7. I’m so happy that your talent and hard work has finally been rewarded. You really deserved this award
+more than anyone else!"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="405dp"
+        android:textIsSelectable="true"
+        android:text="8.Congratulations to the most talented guy in the field. I’d also like to thank the award committee to
+finally finding the hidden gem in the box!"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="465dp"
+        android:textIsSelectable="true"
+        android:text="9. I feel so overwhelmed by the joy of seeing you win the award. You made us all proud with this win.
+Congratulations!"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="510dp"
+        android:textIsSelectable="true"
+        android:text="10.Everyone wants success, but it only follows those who make a true approach to get it. You know the
+hard work and dedication has a destination which is success. Best of luck for your future and
+congratulation for your achievements. Keep going."></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="590dp"
+        android:textIsSelectable="true"
+        android:text="11. No matter how big a crowd may be, a person like you always stands out. There’s no one who has
+worked as hard as you have in the last years. Now your efforts effort have paid off. Congrats."></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="650dp"
+        android:textIsSelectable="true"
+        android:text="12. “Success is yours always on the new ventures you take every now and then. We congratulate you on
+this wonderful moment of success."></TextView>
+</RelativeLayout>

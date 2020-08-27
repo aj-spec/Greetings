@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Holi"
+    android:background="@drawable/holi">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="1dp"
+    android:textIsSelectable="true"
+    android:textColor="@color/cardview_light_background"
+    android:text="1. Holi is the time to unwind, de-stress and bond with sweets, thandai and colours. Let's rejuvenate by
+immersing ourselves in the colours of joy. Happy Holi!!
+
+\n\n2. May you have the most blessed holi festival than you ever had.
+May it be full of fun,joy and love.
+May you be as colorful as the festival itself or even more.
+Lets all have lots of fun.
+
+\n\n3. Bright colors, water balloons, lavish gujiyas and melodious songs' are the ingredients of perfect Holi.
+Wish you a very happy and wonderful Holi.
+\n\n4. Holi tyohar hai Rang aur Bhaang ka
+Hum sab yaaron ka
+Ghar mein aaye mehmano ka
+Gali mein gali walon ka
+Mohalle mein mahoul waalo ka
+Desh mein deshwalo ka.
+\n\n5. May the colours of Holi bring colours to your life and enhance the vibrant personality you have.Enjoy
+the festive spirit. Happy Holi.
+\n\n6. I wish you a Holi filled with sweet moments and colourful memories to cherish forever. Happy Holi.
+\n\n7. May you have the most blessed holi festival than you ever had.
+May it be full of fun,joy and love.
+May you be as colorful as the festival itself or even more.
+Lets all have lots of fun.
+\n\n8. 'Bright colors, water balloons, lavish gujiyas and melodious songs' are the ingredients of perfect Holi.
+Wish you a very happy and wonderful Holi.
+\n\n9. May God gift you all the colours of life, colours of joy, colours of happiness, colours of friendship,
+colours of love and all other colours you want to paint your life in.
+Happy Holi.
+\n\n10. Neela, peela, hara, gulaabi yeh sab to ek bahaana hain
+hame to tumse milne aana hai
+Es Holi pe unhe rangne jaana hain..
+Dil ne ek baar phir humara kahna mana hain.
+\n\n11. A little wish for you on the auspicious occasion of Holi.
+May you always be healthy, contented and happy.
+Wishing you and your family a happy Holi."></TextView>
+</RelativeLayout>
